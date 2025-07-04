@@ -1,1 +1,1 @@
-print("voooooooofffffff444444441111111111111111111111111111o")
+print("1")
